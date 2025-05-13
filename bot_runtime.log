@@ -1,0 +1,199 @@
+2025-05-12 21:46:19,366 [INFO] 🚀 Запуск Scalper Bot в цикле
+2025-05-12 21:46:21,876 [INFO] ✅ Подключение к OKX и загрузка рынков — OK!
+2025-05-12 21:46:22,541 [INFO] 🎯 Итерация @ 2025-05-12T16:46:22.541048 — Signal: NOTHING, Price: 102933.50, Size: None
+2025-05-12 21:46:22,542 [INFO]       Features: speed=-14.60, vol_spike=False, iceberg=False, ob_imbalance=None
+2025-05-12 21:47:22,473 [INFO] 🎯 Итерация @ 2025-05-12T16:47:22.473120 — Signal: NOTHING, Price: 102996.80, Size: None
+2025-05-12 21:47:22,473 [INFO]       Features: speed=16.80, vol_spike=False, iceberg=False, ob_imbalance=BID
+2025-05-12 21:48:22,475 [INFO] 🎯 Итерация @ 2025-05-12T16:48:22.475262 — Signal: NOTHING, Price: 103023.90, Size: None
+2025-05-12 21:48:22,475 [INFO]       Features: speed=-4.60, vol_spike=False, iceberg=False, ob_imbalance=None
+2025-05-12 21:49:22,488 [INFO] 🎯 Итерация @ 2025-05-12T16:49:22.488367 — Signal: NOTHING, Price: 103019.90, Size: None
+2025-05-12 21:49:22,489 [INFO]       Features: speed=24.60, vol_spike=False, iceberg=False, ob_imbalance=ASK
+2025-05-12 21:50:22,488 [INFO] 🎯 Итерация @ 2025-05-12T16:50:22.488715 — Signal: NOTHING, Price: 103070.00, Size: None
+2025-05-12 21:50:22,489 [INFO]       Features: speed=26.80, vol_spike=False, iceberg=False, ob_imbalance=BID
+2025-05-12 21:51:22,505 [INFO] 🎯 Итерация @ 2025-05-12T16:51:22.505762 — Signal: NOTHING, Price: 102986.10, Size: None
+2025-05-12 21:51:22,506 [INFO]       Features: speed=-32.00, vol_spike=False, iceberg=False, ob_imbalance=None
+2025-05-12 21:52:22,477 [INFO] 🎯 Итерация @ 2025-05-12T16:52:22.477294 — Signal: NOTHING, Price: 102995.90, Size: None
+2025-05-12 21:52:22,477 [INFO]       Features: speed=-9.90, vol_spike=False, iceberg=False, ob_imbalance=ASK
+2025-05-12 21:53:22,496 [INFO] 🎯 Итерация @ 2025-05-12T16:53:22.496634 — Signal: NOTHING, Price: 102962.00, Size: None
+2025-05-12 21:53:22,497 [INFO]       Features: speed=-9.30, vol_spike=False, iceberg=False, ob_imbalance=BID
+2025-05-12 21:54:22,526 [INFO] 🎯 Итерация @ 2025-05-12T16:54:22.526792 — Signal: NOTHING, Price: 102931.80, Size: None
+2025-05-12 21:54:22,526 [INFO]       Features: speed=-28.20, vol_spike=False, iceberg=False, ob_imbalance=BID
+2025-05-12 21:55:22,510 [INFO] 🎯 Итерация @ 2025-05-12T16:55:22.510696 — Signal: NOTHING, Price: 102985.80, Size: None
+2025-05-12 21:55:22,512 [INFO]       Features: speed=-0.60, vol_spike=False, iceberg=False, ob_imbalance=None
+2025-05-12 21:56:22,755 [INFO] 🎯 Итерация @ 2025-05-12T16:56:22.755947 — Signal: NOTHING, Price: 102911.50, Size: None
+2025-05-12 21:56:22,755 [INFO]       Features: speed=-28.30, vol_spike=False, iceberg=False, ob_imbalance=BID
+2025-05-12 21:57:22,477 [INFO] 🎯 Итерация @ 2025-05-12T16:57:22.477904 — Signal: NOTHING, Price: 102864.50, Size: None
+2025-05-12 21:57:22,479 [INFO]       Features: speed=-35.40, vol_spike=False, iceberg=False, ob_imbalance=None
+2025-05-12 21:58:22,579 [INFO] 🎯 Итерация @ 2025-05-12T16:58:22.579600 — Signal: NOTHING, Price: 102839.90, Size: None
+2025-05-12 21:58:22,581 [INFO]       Features: speed=-19.00, vol_spike=False, iceberg=False, ob_imbalance=None
+2025-05-12 21:59:22,469 [INFO] 🎯 Итерация @ 2025-05-12T16:59:22.469735 — Signal: NOTHING, Price: 102845.80, Size: None
+2025-05-12 21:59:22,471 [INFO]       Features: speed=15.90, vol_spike=False, iceberg=False, ob_imbalance=None
+2025-05-12 22:00:22,488 [INFO] 🎯 Итерация @ 2025-05-12T17:00:22.488387 — Signal: NOTHING, Price: 102839.80, Size: None
+2025-05-12 22:00:22,488 [INFO]       Features: speed=-6.30, vol_spike=False, iceberg=False, ob_imbalance=ASK
+2025-05-12 22:01:10,972 [INFO] 🛑 Получен KeyboardInterrupt — завершаем работу бота
+2025-05-12 22:01:10,973 [INFO] 🎉 Бот остановлен
+2025-05-12 22:07:40,389 [INFO] 🚀 Запуск Scalper Bot в цикле
+2025-05-12 22:07:43,166 [INFO] ✅ Подключение к OKX и загрузка рынков — OK!
+2025-05-12 22:07:43,933 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:08:44,210 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:09:43,780 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:10:43,842 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:11:44,219 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:12:43,939 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:13:43,856 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:14:43,931 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:15:43,775 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:16:43,762 [ERROR] 💥 Итерация — FAILED: name 'size' is not defined
+2025-05-12 22:16:54,880 [INFO] 🛑 Получен KeyboardInterrupt — завершаем работу бота
+2025-05-12 22:16:54,881 [INFO] 🎉 Бот остановлен
+2025-05-12 22:17:38,697 [INFO] 🚀 Запуск Scalper Bot в цикле
+2025-05-12 22:17:40,911 [INFO] ✅ Подключение к OKX и загрузка рынков — OK!
+2025-05-12 22:17:41,725 [ERROR] 💥 Итерация — FAILED: unsupported format string passed to NoneType.__format__
+2025-05-12 22:18:41,664 [ERROR] 💥 Итерация — FAILED: unsupported format string passed to NoneType.__format__
+2025-05-12 22:19:41,586 [ERROR] 💥 Итерация — FAILED: unsupported format string passed to NoneType.__format__
+2025-05-12 22:20:41,529 [ERROR] 💥 Итерация — FAILED: unsupported format string passed to NoneType.__format__
+2025-05-12 22:21:41,593 [ERROR] 💥 Итерация — FAILED: unsupported format string passed to NoneType.__format__
+2025-05-12 22:22:41,688 [ERROR] 💥 Итерация — FAILED: unsupported format string passed to NoneType.__format__
+2025-05-12 22:23:41,602 [ERROR] 💥 Итерация — FAILED: unsupported format string passed to NoneType.__format__
+2025-05-12 22:24:19,846 [INFO] 🛑 Получен KeyboardInterrupt — завершаем работу бота
+2025-05-12 22:24:19,846 [INFO] 🎉 Бот остановлен
+2025-05-12 22:24:25,057 [INFO] 🚀 Starting Scalper Bot (loop mode)
+2025-05-12 22:24:27,832 [INFO] ✅ Connect to OKX & load markets — OK!
+2025-05-12 22:24:28,591 [INFO] 🎯 Iteration @ 2025-05-12T17:24:28.591333 — Signal=NOTHING, Price=102782.40, Size=—, SL=—, TP=—
+2025-05-12 22:25:28,419 [INFO] 🎯 Iteration @ 2025-05-12T17:25:28.419976 — Signal=NOTHING, Price=102826.70, Size=—, SL=—, TP=—
+2025-05-12 22:26:28,471 [INFO] 🎯 Iteration @ 2025-05-12T17:26:28.471231 — Signal=NOTHING, Price=102857.60, Size=—, SL=—, TP=—
+2025-05-12 22:27:29,036 [INFO] 🎯 Iteration @ 2025-05-12T17:27:29.036687 — Signal=NOTHING, Price=102880.20, Size=—, SL=—, TP=—
+2025-05-12 22:28:28,579 [INFO] 🎯 Iteration @ 2025-05-12T17:28:28.579498 — Signal=NOTHING, Price=102910.40, Size=—, SL=—, TP=—
+2025-05-12 22:29:28,470 [INFO] 🎯 Iteration @ 2025-05-12T17:29:28.470204 — Signal=NOTHING, Price=102922.10, Size=—, SL=—, TP=—
+2025-05-12 22:30:28,421 [INFO] 🎯 Iteration @ 2025-05-12T17:30:28.420700 — Signal=NOTHING, Price=102930.90, Size=—, SL=—, TP=—
+2025-05-12 22:31:28,405 [INFO] 🎯 Iteration @ 2025-05-12T17:31:28.405060 — Signal=NOTHING, Price=102946.50, Size=—, SL=—, TP=—
+2025-05-12 22:32:28,440 [INFO] 🎯 Iteration @ 2025-05-12T17:32:28.440069 — Signal=NOTHING, Price=102979.50, Size=—, SL=—, TP=—
+2025-05-12 22:33:28,507 [INFO] 🎯 Iteration @ 2025-05-12T17:33:28.507594 — Signal=NOTHING, Price=102914.00, Size=—, SL=—, TP=—
+2025-05-12 22:34:28,431 [INFO] 🎯 Iteration @ 2025-05-12T17:34:28.431387 — Signal=NOTHING, Price=102983.80, Size=—, SL=—, TP=—
+2025-05-12 22:35:28,564 [INFO] 🎯 Iteration @ 2025-05-12T17:35:28.564210 — Signal=NOTHING, Price=102924.90, Size=—, SL=—, TP=—
+2025-05-12 22:36:28,431 [INFO] 🎯 Iteration @ 2025-05-12T17:36:28.431210 — Signal=NOTHING, Price=102892.10, Size=—, SL=—, TP=—
+2025-05-12 22:37:28,436 [INFO] 🎯 Iteration @ 2025-05-12T17:37:28.436044 — Signal=NOTHING, Price=102867.70, Size=—, SL=—, TP=—
+2025-05-12 22:38:28,482 [INFO] 🎯 Iteration @ 2025-05-12T17:38:28.482524 — Signal=NOTHING, Price=102910.00, Size=—, SL=—, TP=—
+2025-05-12 22:39:28,520 [INFO] 🎯 Iteration @ 2025-05-12T17:39:28.520035 — Signal=NOTHING, Price=102900.10, Size=—, SL=—, TP=—
+2025-05-12 22:40:28,473 [INFO] 🎯 Iteration @ 2025-05-12T17:40:28.472678 — Signal=NOTHING, Price=102839.80, Size=—, SL=—, TP=—
+2025-05-12 22:41:28,471 [INFO] 🎯 Iteration @ 2025-05-12T17:41:28.471848 — Signal=NOTHING, Price=102821.50, Size=—, SL=—, TP=—
+2025-05-12 22:42:28,440 [INFO] 🎯 Iteration @ 2025-05-12T17:42:28.440581 — Signal=NOTHING, Price=102779.30, Size=—, SL=—, TP=—
+2025-05-12 22:43:28,486 [INFO] 🎯 Iteration @ 2025-05-12T17:43:28.486784 — Signal=NOTHING, Price=102820.80, Size=—, SL=—, TP=—
+2025-05-12 22:44:28,739 [INFO] 🎯 Iteration @ 2025-05-12T17:44:28.739042 — Signal=NOTHING, Price=102801.30, Size=—, SL=—, TP=—
+2025-05-12 22:45:28,454 [INFO] 🎯 Iteration @ 2025-05-12T17:45:28.453613 — Signal=NOTHING, Price=102864.90, Size=—, SL=—, TP=—
+2025-05-12 22:46:28,511 [INFO] 🎯 Iteration @ 2025-05-12T17:46:28.511887 — Signal=NOTHING, Price=102700.10, Size=—, SL=—, TP=—
+2025-05-12 22:47:28,558 [INFO] 🎯 Iteration @ 2025-05-12T17:47:28.558155 — Signal=NOTHING, Price=102730.80, Size=—, SL=—, TP=—
+2025-05-12 22:48:28,411 [INFO] 🎯 Iteration @ 2025-05-12T17:48:28.411238 — Signal=NOTHING, Price=102681.80, Size=—, SL=—, TP=—
+2025-05-12 22:49:28,493 [INFO] 🎯 Iteration @ 2025-05-12T17:49:28.493036 — Signal=NOTHING, Price=102574.80, Size=—, SL=—, TP=—
+2025-05-12 22:50:28,478 [INFO] 🎯 Iteration @ 2025-05-12T17:50:28.478748 — Signal=NOTHING, Price=102598.20, Size=—, SL=—, TP=—
+2025-05-12 22:51:28,472 [INFO] 🎯 Iteration @ 2025-05-12T17:51:28.472300 — Signal=NOTHING, Price=102635.80, Size=—, SL=—, TP=—
+2025-05-12 22:52:28,496 [INFO] 🎯 Iteration @ 2025-05-12T17:52:28.496605 — Signal=NOTHING, Price=102685.50, Size=—, SL=—, TP=—
+2025-05-12 22:53:28,442 [INFO] 🎯 Iteration @ 2025-05-12T17:53:28.442947 — Signal=NOTHING, Price=102651.80, Size=—, SL=—, TP=—
+2025-05-12 22:54:28,450 [INFO] 🎯 Iteration @ 2025-05-12T17:54:28.450836 — Signal=NOTHING, Price=102660.70, Size=—, SL=—, TP=—
+2025-05-12 22:55:28,498 [INFO] 🎯 Iteration @ 2025-05-12T17:55:28.498759 — Signal=NOTHING, Price=102686.80, Size=—, SL=—, TP=—
+2025-05-12 22:56:28,427 [INFO] 🎯 Iteration @ 2025-05-12T17:56:28.427127 — Signal=NOTHING, Price=102720.00, Size=—, SL=—, TP=—
+2025-05-12 22:57:28,439 [INFO] 🎯 Iteration @ 2025-05-12T17:57:28.439193 — Signal=NOTHING, Price=102558.10, Size=—, SL=—, TP=—
+2025-05-12 22:58:28,513 [INFO] 🎯 Iteration @ 2025-05-12T17:58:28.512280 — Signal=NOTHING, Price=102585.90, Size=—, SL=—, TP=—
+2025-05-12 22:59:28,447 [INFO] 🎯 Iteration @ 2025-05-12T17:59:28.447683 — Signal=NOTHING, Price=102559.60, Size=—, SL=—, TP=—
+2025-05-12 23:00:28,444 [INFO] 🎯 Iteration @ 2025-05-12T18:00:28.444336 — Signal=NOTHING, Price=102561.20, Size=—, SL=—, TP=—
+2025-05-12 23:01:28,566 [INFO] 🎯 Iteration @ 2025-05-12T18:01:28.566802 — Signal=NOTHING, Price=102606.60, Size=—, SL=—, TP=—
+2025-05-12 23:02:28,578 [INFO] 🎯 Iteration @ 2025-05-12T18:02:28.578859 — Signal=NOTHING, Price=102571.70, Size=—, SL=—, TP=—
+2025-05-12 23:03:28,517 [INFO] 🎯 Iteration @ 2025-05-12T18:03:28.517911 — Signal=NOTHING, Price=102642.00, Size=—, SL=—, TP=—
+2025-05-12 23:04:28,612 [INFO] 🎯 Iteration @ 2025-05-12T18:04:28.612257 — Signal=NOTHING, Price=102592.70, Size=—, SL=—, TP=—
+2025-05-12 23:05:28,486 [INFO] 🎯 Iteration @ 2025-05-12T18:05:28.486674 — Signal=NOTHING, Price=102549.60, Size=—, SL=—, TP=—
+2025-05-12 23:06:28,462 [INFO] 🎯 Iteration @ 2025-05-12T18:06:28.462100 — Signal=NOTHING, Price=102200.10, Size=—, SL=—, TP=—
+2025-05-12 23:07:28,475 [INFO] 🎯 Iteration @ 2025-05-12T18:07:28.475851 — Signal=NOTHING, Price=102133.60, Size=—, SL=—, TP=—
+2025-05-12 23:08:28,486 [INFO] 🎯 Iteration @ 2025-05-12T18:08:28.486771 — Signal=NOTHING, Price=101963.10, Size=—, SL=—, TP=—
+2025-05-12 23:09:28,538 [INFO] 🎯 Iteration @ 2025-05-12T18:09:28.538643 — Signal=NOTHING, Price=101831.90, Size=—, SL=—, TP=—
+2025-05-12 23:10:28,561 [INFO] 🎯 Iteration @ 2025-05-12T18:10:28.561911 — Signal=NOTHING, Price=101905.90, Size=—, SL=—, TP=—
+2025-05-12 23:11:28,497 [INFO] 🎯 Iteration @ 2025-05-12T18:11:28.497241 — Signal=NOTHING, Price=101896.30, Size=—, SL=—, TP=—
+2025-05-12 23:12:28,563 [INFO] 🎯 Iteration @ 2025-05-12T18:12:28.563415 — Signal=NOTHING, Price=101994.10, Size=—, SL=—, TP=—
+2025-05-12 23:13:28,876 [INFO] 🎯 Iteration @ 2025-05-12T18:13:28.876658 — Signal=NOTHING, Price=101975.10, Size=—, SL=—, TP=—
+2025-05-12 23:14:28,476 [INFO] 🎯 Iteration @ 2025-05-12T18:14:28.476359 — Signal=NOTHING, Price=101940.00, Size=—, SL=—, TP=—
+2025-05-12 23:15:28,484 [INFO] 🎯 Iteration @ 2025-05-12T18:15:28.484385 — Signal=NOTHING, Price=102059.90, Size=—, SL=—, TP=—
+2025-05-12 23:16:28,473 [INFO] 🎯 Iteration @ 2025-05-12T18:16:28.473523 — Signal=NOTHING, Price=102155.10, Size=—, SL=—, TP=—
+2025-05-12 23:17:28,488 [INFO] 🎯 Iteration @ 2025-05-12T18:17:28.488608 — Signal=NOTHING, Price=102103.40, Size=—, SL=—, TP=—
+2025-05-12 23:18:28,481 [INFO] 🎯 Iteration @ 2025-05-12T18:18:28.481076 — Signal=NOTHING, Price=102206.40, Size=—, SL=—, TP=—
+2025-05-12 23:19:28,537 [INFO] 🎯 Iteration @ 2025-05-12T18:19:28.537185 — Signal=NOTHING, Price=102168.70, Size=—, SL=—, TP=—
+2025-05-12 23:20:28,525 [INFO] 🎯 Iteration @ 2025-05-12T18:20:28.525397 — Signal=NOTHING, Price=102217.50, Size=—, SL=—, TP=—
+2025-05-12 23:21:28,479 [INFO] 🎯 Iteration @ 2025-05-12T18:21:28.479891 — Signal=NOTHING, Price=102208.50, Size=—, SL=—, TP=—
+2025-05-12 23:22:28,495 [INFO] 🎯 Iteration @ 2025-05-12T18:22:28.495742 — Signal=NOTHING, Price=102256.60, Size=—, SL=—, TP=—
+2025-05-12 23:23:28,560 [INFO] 🎯 Iteration @ 2025-05-12T18:23:28.560525 — Signal=NOTHING, Price=102145.40, Size=—, SL=—, TP=—
+2025-05-12 23:24:28,475 [INFO] 🎯 Iteration @ 2025-05-12T18:24:28.475749 — Signal=NOTHING, Price=102076.70, Size=—, SL=—, TP=—
+2025-05-12 23:25:28,499 [INFO] 🎯 Iteration @ 2025-05-12T18:25:28.499281 — Signal=NOTHING, Price=102069.40, Size=—, SL=—, TP=—
+2025-05-12 23:26:28,511 [INFO] 🎯 Iteration @ 2025-05-12T18:26:28.511850 — Signal=NOTHING, Price=101892.00, Size=—, SL=—, TP=—
+2025-05-12 23:27:28,493 [INFO] 🎯 Iteration @ 2025-05-12T18:27:28.493054 — Signal=NOTHING, Price=101867.90, Size=—, SL=—, TP=—
+2025-05-12 23:28:28,502 [INFO] 🎯 Iteration @ 2025-05-12T18:28:28.502386 — Signal=NOTHING, Price=101790.00, Size=—, SL=—, TP=—
+2025-05-12 23:29:28,502 [INFO] 🎯 Iteration @ 2025-05-12T18:29:28.502820 — Signal=NOTHING, Price=101724.10, Size=—, SL=—, TP=—
+2025-05-12 23:30:28,513 [INFO] 🎯 Iteration @ 2025-05-12T18:30:28.513439 — Signal=NOTHING, Price=101653.20, Size=—, SL=—, TP=—
+2025-05-12 23:31:28,510 [INFO] 🎯 Iteration @ 2025-05-12T18:31:28.510341 — Signal=NOTHING, Price=101611.50, Size=—, SL=—, TP=—
+2025-05-12 23:32:28,522 [INFO] 🎯 Iteration @ 2025-05-12T18:32:28.522428 — Signal=NOTHING, Price=101516.00, Size=—, SL=—, TP=—
+2025-05-12 23:33:28,477 [INFO] 🎯 Iteration @ 2025-05-12T18:33:28.477993 — Signal=NOTHING, Price=101464.70, Size=—, SL=—, TP=—
+2025-05-12 23:34:28,474 [INFO] 🎯 Iteration @ 2025-05-12T18:34:28.474207 — Signal=NOTHING, Price=101310.00, Size=—, SL=—, TP=—
+2025-05-12 23:35:29,106 [INFO] 🎯 Iteration @ 2025-05-12T18:35:29.106549 — Signal=NOTHING, Price=101410.20, Size=—, SL=—, TP=—
+2025-05-12 23:36:28,490 [INFO] 🎯 Iteration @ 2025-05-12T18:36:28.490767 — Signal=NOTHING, Price=101325.40, Size=—, SL=—, TP=—
+2025-05-12 23:37:28,510 [INFO] 🎯 Iteration @ 2025-05-12T18:37:28.510204 — Signal=NOTHING, Price=101332.00, Size=—, SL=—, TP=—
+2025-05-12 23:38:28,519 [INFO] 🎯 Iteration @ 2025-05-12T18:38:28.519817 — Signal=NOTHING, Price=101268.70, Size=—, SL=—, TP=—
+2025-05-12 23:39:28,648 [INFO] 🎯 Iteration @ 2025-05-12T18:39:28.648725 — Signal=NOTHING, Price=101299.00, Size=—, SL=—, TP=—
+2025-05-12 23:40:28,553 [INFO] 🎯 Iteration @ 2025-05-12T18:40:28.553218 — Signal=NOTHING, Price=101344.00, Size=—, SL=—, TP=—
+2025-05-12 23:41:28,532 [INFO] 🎯 Iteration @ 2025-05-12T18:41:28.532962 — Signal=NOTHING, Price=101432.00, Size=—, SL=—, TP=—
+2025-05-12 23:42:28,516 [INFO] 🎯 Iteration @ 2025-05-12T18:42:28.516442 — Signal=NOTHING, Price=101396.10, Size=—, SL=—, TP=—
+2025-05-12 23:43:28,512 [INFO] 🎯 Iteration @ 2025-05-12T18:43:28.512539 — Signal=NOTHING, Price=101091.50, Size=—, SL=—, TP=—
+2025-05-12 23:44:28,496 [INFO] 🎯 Iteration @ 2025-05-12T18:44:28.496636 — Signal=NOTHING, Price=101184.10, Size=—, SL=—, TP=—
+2025-05-12 23:45:28,526 [INFO] 🎯 Iteration @ 2025-05-12T18:45:28.526878 — Signal=NOTHING, Price=101242.40, Size=—, SL=—, TP=—
+2025-05-12 23:46:30,860 [INFO] 🎯 Iteration @ 2025-05-12T18:46:30.860161 — Signal=NOTHING, Price=101233.10, Size=—, SL=—, TP=—
+2025-05-12 23:47:28,489 [INFO] 🎯 Iteration @ 2025-05-12T18:47:28.489445 — Signal=NOTHING, Price=101106.80, Size=—, SL=—, TP=—
+2025-05-12 23:48:28,517 [INFO] 🎯 Iteration @ 2025-05-12T18:48:28.517232 — Signal=NOTHING, Price=101045.00, Size=—, SL=—, TP=—
+2025-05-12 23:49:28,500 [INFO] 🎯 Iteration @ 2025-05-12T18:49:28.500648 — Signal=NOTHING, Price=100876.00, Size=—, SL=—, TP=—
+2025-05-12 23:50:28,577 [INFO] 🎯 Iteration @ 2025-05-12T18:50:28.577817 — Signal=NOTHING, Price=100970.00, Size=—, SL=—, TP=—
+2025-05-12 23:51:28,516 [INFO] 🎯 Iteration @ 2025-05-12T18:51:28.516962 — Signal=NOTHING, Price=101091.00, Size=—, SL=—, TP=—
+2025-05-12 23:52:28,523 [INFO] 🎯 Iteration @ 2025-05-12T18:52:28.523539 — Signal=NOTHING, Price=101018.50, Size=—, SL=—, TP=—
+2025-05-12 23:53:28,619 [INFO] 🎯 Iteration @ 2025-05-12T18:53:28.619193 — Signal=NOTHING, Price=101282.10, Size=—, SL=—, TP=—
+2025-05-12 23:54:28,819 [INFO] 🎯 Iteration @ 2025-05-12T18:54:28.819575 — Signal=NOTHING, Price=101448.00, Size=—, SL=—, TP=—
+2025-05-12 23:55:28,536 [INFO] 🎯 Iteration @ 2025-05-12T18:55:28.536412 — Signal=NOTHING, Price=101670.00, Size=—, SL=—, TP=—
+2025-05-12 23:56:28,525 [INFO] 🎯 Iteration @ 2025-05-12T18:56:28.525087 — Signal=NOTHING, Price=101670.70, Size=—, SL=—, TP=—
+2025-05-12 23:57:28,543 [INFO] 🎯 Iteration @ 2025-05-12T18:57:28.542257 — Signal=NOTHING, Price=101731.30, Size=—, SL=—, TP=—
+2025-05-12 23:58:28,515 [INFO] 🎯 Iteration @ 2025-05-12T18:58:28.515912 — Signal=NOTHING, Price=101733.70, Size=—, SL=—, TP=—
+2025-05-12 23:59:28,536 [INFO] 🎯 Iteration @ 2025-05-12T18:59:28.536958 — Signal=NOTHING, Price=101672.20, Size=—, SL=—, TP=—
+2025-05-13 00:00:28,651 [INFO] 🎯 Iteration @ 2025-05-12T19:00:28.651215 — Signal=NOTHING, Price=101608.50, Size=—, SL=—, TP=—
+2025-05-13 00:01:28,532 [INFO] 🎯 Iteration @ 2025-05-12T19:01:28.532228 — Signal=NOTHING, Price=101713.10, Size=—, SL=—, TP=—
+2025-05-13 00:02:28,518 [INFO] 🎯 Iteration @ 2025-05-12T19:02:28.518734 — Signal=NOTHING, Price=101757.10, Size=—, SL=—, TP=—
+2025-05-13 00:03:28,548 [INFO] 🎯 Iteration @ 2025-05-12T19:03:28.548062 — Signal=NOTHING, Price=101870.00, Size=—, SL=—, TP=—
+2025-05-13 00:04:28,633 [INFO] 🎯 Iteration @ 2025-05-12T19:04:28.633546 — Signal=NOTHING, Price=101942.00, Size=—, SL=—, TP=—
+2025-05-13 00:05:28,552 [INFO] 🎯 Iteration @ 2025-05-12T19:05:28.552999 — Signal=NOTHING, Price=101965.30, Size=—, SL=—, TP=—
+2025-05-13 00:06:28,758 [INFO] 🎯 Iteration @ 2025-05-12T19:06:28.758407 — Signal=NOTHING, Price=101941.50, Size=—, SL=—, TP=—
+2025-05-13 00:07:28,947 [INFO] 🎯 Iteration @ 2025-05-12T19:07:28.946955 — Signal=NOTHING, Price=101912.00, Size=—, SL=—, TP=—
+2025-05-13 00:08:28,546 [INFO] 🎯 Iteration @ 2025-05-12T19:08:28.546673 — Signal=NOTHING, Price=101972.30, Size=—, SL=—, TP=—
+2025-05-13 00:09:28,567 [INFO] 🎯 Iteration @ 2025-05-12T19:09:28.567994 — Signal=NOTHING, Price=101989.00, Size=—, SL=—, TP=—
+2025-05-13 08:24:08,613 [ERROR] 💥 Iteration — FAILED: okx GET https://www.okx.com/api/v5/market/candles?instId=BTC-USDT&bar=1m&limit=300
+2025-05-13 08:25:09,263 [INFO] 🎯 Iteration @ 2025-05-13T03:25:09.263158 — Signal=NOTHING, Price=101800.50, Size=—, SL=—, TP=—
+2025-05-13 08:26:09,088 [INFO] 🎯 Iteration @ 2025-05-13T03:26:09.088435 — Signal=NOTHING, Price=101832.30, Size=—, SL=—, TP=—
+2025-05-13 08:27:09,124 [INFO] 🎯 Iteration @ 2025-05-13T03:27:09.124505 — Signal=NOTHING, Price=101815.20, Size=—, SL=—, TP=—
+2025-05-13 08:28:09,102 [INFO] 🎯 Iteration @ 2025-05-13T03:28:09.101714 — Signal=NOTHING, Price=101707.80, Size=—, SL=—, TP=—
+2025-05-13 08:29:09,123 [INFO] 🎯 Iteration @ 2025-05-13T03:29:09.123921 — Signal=NOTHING, Price=101577.90, Size=—, SL=—, TP=—
+2025-05-13 08:30:09,177 [INFO] 🎯 Iteration @ 2025-05-13T03:30:09.177486 — Signal=NOTHING, Price=101552.00, Size=—, SL=—, TP=—
+2025-05-13 08:31:09,105 [INFO] 🎯 Iteration @ 2025-05-13T03:31:09.105502 — Signal=NOTHING, Price=101547.70, Size=—, SL=—, TP=—
+2025-05-13 08:32:09,133 [INFO] 🎯 Iteration @ 2025-05-13T03:32:09.133704 — Signal=NOTHING, Price=101533.30, Size=—, SL=—, TP=—
+2025-05-13 08:33:09,105 [INFO] 🎯 Iteration @ 2025-05-13T03:33:09.105812 — Signal=NOTHING, Price=101592.40, Size=—, SL=—, TP=—
+2025-05-13 08:34:09,113 [INFO] 🎯 Iteration @ 2025-05-13T03:34:09.113415 — Signal=NOTHING, Price=101637.90, Size=—, SL=—, TP=—
+2025-05-13 08:35:09,099 [INFO] 🎯 Iteration @ 2025-05-13T03:35:09.099560 — Signal=NOTHING, Price=101605.80, Size=—, SL=—, TP=—
+2025-05-13 08:36:09,936 [INFO] 🎯 Iteration @ 2025-05-13T03:36:09.936508 — Signal=NOTHING, Price=101659.60, Size=—, SL=—, TP=—
+2025-05-13 08:37:09,104 [INFO] 🎯 Iteration @ 2025-05-13T03:37:09.104705 — Signal=NOTHING, Price=101607.90, Size=—, SL=—, TP=—
+2025-05-13 08:38:09,121 [INFO] 🎯 Iteration @ 2025-05-13T03:38:09.120847 — Signal=NOTHING, Price=101604.60, Size=—, SL=—, TP=—
+2025-05-13 08:39:09,113 [INFO] 🎯 Iteration @ 2025-05-13T03:39:09.113633 — Signal=NOTHING, Price=101555.90, Size=—, SL=—, TP=—
+2025-05-13 08:40:09,101 [INFO] 🎯 Iteration @ 2025-05-13T03:40:09.100609 — Signal=NOTHING, Price=101677.90, Size=—, SL=—, TP=—
+2025-05-13 08:41:09,100 [INFO] 🎯 Iteration @ 2025-05-13T03:41:09.100287 — Signal=NOTHING, Price=101738.00, Size=—, SL=—, TP=—
+2025-05-13 08:42:09,107 [INFO] 🎯 Iteration @ 2025-05-13T03:42:09.107081 — Signal=NOTHING, Price=101790.90, Size=—, SL=—, TP=—
+2025-05-13 08:43:09,112 [INFO] 🎯 Iteration @ 2025-05-13T03:43:09.112651 — Signal=NOTHING, Price=101767.90, Size=—, SL=—, TP=—
+2025-05-13 08:44:09,116 [INFO] 🎯 Iteration @ 2025-05-13T03:44:09.116552 — Signal=NOTHING, Price=101753.00, Size=—, SL=—, TP=—
+2025-05-13 08:45:09,123 [INFO] 🎯 Iteration @ 2025-05-13T03:45:09.123731 — Signal=NOTHING, Price=101813.20, Size=—, SL=—, TP=—
+2025-05-13 08:46:09,115 [INFO] 🎯 Iteration @ 2025-05-13T03:46:09.115906 — Signal=NOTHING, Price=101795.80, Size=—, SL=—, TP=—
+2025-05-13 08:47:09,139 [INFO] 🎯 Iteration @ 2025-05-13T03:47:09.138681 — Signal=NOTHING, Price=101757.10, Size=—, SL=—, TP=—
+2025-05-13 08:48:09,110 [INFO] 🎯 Iteration @ 2025-05-13T03:48:09.110210 — Signal=NOTHING, Price=101754.70, Size=—, SL=—, TP=—
+2025-05-13 08:49:09,146 [INFO] 🎯 Iteration @ 2025-05-13T03:49:09.146465 — Signal=NOTHING, Price=101791.40, Size=—, SL=—, TP=—
+2025-05-13 08:50:09,115 [INFO] 🎯 Iteration @ 2025-05-13T03:50:09.115619 — Signal=NOTHING, Price=101737.90, Size=—, SL=—, TP=—
+2025-05-13 08:51:09,141 [INFO] 🎯 Iteration @ 2025-05-13T03:51:09.140750 — Signal=NOTHING, Price=101629.90, Size=—, SL=—, TP=—
+2025-05-13 08:52:09,118 [INFO] 🎯 Iteration @ 2025-05-13T03:52:09.118268 — Signal=NOTHING, Price=101640.00, Size=—, SL=—, TP=—
+2025-05-13 08:53:09,159 [INFO] 🎯 Iteration @ 2025-05-13T03:53:09.159553 — Signal=NOTHING, Price=101673.80, Size=—, SL=—, TP=—
+2025-05-13 08:54:09,127 [INFO] 🎯 Iteration @ 2025-05-13T03:54:09.127021 — Signal=NOTHING, Price=101734.00, Size=—, SL=—, TP=—
+2025-05-13 08:55:09,114 [INFO] 🎯 Iteration @ 2025-05-13T03:55:09.114622 — Signal=NOTHING, Price=101776.90, Size=—, SL=—, TP=—

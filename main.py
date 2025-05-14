@@ -20,7 +20,7 @@ from visual.trade_logger import log_trade
 LOG_FORMAT = "%(asctime)s %(message)s"
 logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
 logger = logging.getLogger()
-
+exchange = init_exchange()
 def run_iteration(exchange, symbol, balance, risk_per_trade, sl_mul, tp_mul):
     """
     Возвращает dict с результатом сделки или None, если signal==NOTHING
